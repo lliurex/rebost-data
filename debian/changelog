@@ -1,3 +1,9 @@
+rebost-data (0.3.4) focal; urgency=medium
+
+  * Disable all but zomandos
+
+ -- Juanma1980 <juanma1980@gmail.com>  Fri, 13 Jan 2023 12:10:25 +0100
+
 rebost-data (0.3.3) focal; urgency=medium
 
   * Add default filters

@@ -1,3 +1,10 @@
+rebost-data (0.4.0) jammy; urgency=medium
+
+  * Metadata removed
+  * Updated filters
+
+ -- Juanma1980 <juanma1980@gmail.com>  Fri, 27 Oct 2023 11:55:19 +0200
+
 rebost-data (0.3.6) jammy; urgency=medium
 
   * Metada updated

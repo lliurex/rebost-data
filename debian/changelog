@@ -1,6 +1,7 @@
-rebost-data (1.0.1) jammy; urgency=medium
+rebost-data (1.0.1-0lliurex23) jammy; urgency=medium
 
   * Add eduapps catalogue
+  * remove default filters
 
  -- Juanma1980 <juanma1980@gmail.com>  Fri, 09 Feb 2024 10:15:38 +0100
 

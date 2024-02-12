@@ -1,3 +1,9 @@
+rebost-data (0.4) focal; urgency=medium
+
+  * Add map for eduapps
+
+ -- Juanma1980 <juanma1980@gmail.com>  Mon, 12 Feb 2024 16:50:20 +0100
+
 rebost-data (0.3.9) focal; urgency=medium
 
   * Split metadata

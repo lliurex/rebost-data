@@ -1,3 +1,9 @@
+rebost-data (1.0.1-1lliurex23) jammy; urgency=medium
+
+  * Map cinelerra to llx-edition-studio
+
+ -- Juanma1980 <juanma1980@gmail.com>  Wed, 14 Feb 2024 09:36:50 +0100
+
 rebost-data (1.0.1-0lliurex23) jammy; urgency=medium
 
   * Add eduapps catalogue

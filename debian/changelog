@@ -1,6 +1,7 @@
-rebost-data (0.4-0lliurex21) focal; urgency=medium
+rebost-data (0.4-2lliurex21) focal; urgency=medium
 
   * Add map for eduapps
+  * Sync with jammy
 
  -- Juanma1980 <juanma1980@gmail.com>  Mon, 12 Feb 2024 16:50:20 +0100
 

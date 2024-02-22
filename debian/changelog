@@ -1,8 +1,14 @@
+rebost-data (1.0.1-0lliurex21) focal; urgency=medium
+
+  * Sync version with jammy
+
+ -- Juanma1980 <juanma1980@gmail.com>  Wed, 21 Feb 2024 07:49:33 +0100
+
 rebost-data (0.5.0-0lliurex21) focal; urgency=medium
 
   * Map for focal
 
- -- Juanma1980 <juanma1980@gmail.com>  Wed, 21 Feb 2024 07:49:33 +0100
+ -- Juanma1980 <juanma1980@gmail.com>  Wed, 20 Feb 2024 07:49:33 +0100
 
 rebost-data (0.4.2-lliurex21) focal; urgency=medium
 

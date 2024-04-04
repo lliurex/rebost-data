@@ -1,3 +1,9 @@
+rebost-data (24.04.04-0lliurex23) jammy; urgency=medium
+
+  * add gdis-molecule-modeller inkscape-lliurex
+
+ -- Juanma1980 <juanma1980@gmail.com>  Thu, 04 Apr 2024 12:17:25 +0200
+
 rebost-data (1.0.1-1lliurex23) jammy; urgency=medium
 
   * Map cinelerra to llx-edition-studio

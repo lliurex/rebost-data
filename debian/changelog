@@ -1,3 +1,9 @@
+rebost-data (24.07.02-0lliurex23) jammy; urgency=medium
+
+  * add virtualbox-lliurex
+
+ -- Juanma1980 <juanma1980@gmail.com>  Fri, 05 Jul 2024 11:03:15 +0200
+
 rebost-data (24.04.04-0lliurex23) jammy; urgency=medium
 
   * add gdis-molecule-modeller inkscape-lliurex

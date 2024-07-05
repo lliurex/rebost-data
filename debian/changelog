@@ -1,6 +1,10 @@
 rebost-data (24.07.02-0lliurex23) jammy; urgency=medium
 
-  * add virtualbox-lliurex
+  * virtualbox-lliurex
+  * kdeconnect* 
+  * guest-account-manager
+  * lliurex-acces-control
+  * ab-connector
 
  -- Juanma1980 <juanma1980@gmail.com>  Fri, 05 Jul 2024 11:03:15 +0200
 

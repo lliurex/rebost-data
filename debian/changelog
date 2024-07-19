@@ -1,3 +1,9 @@
+rebost-data (24.07.19-0lliurex21) jammy; urgency=medium
+
+  * Sync with jammy
+
+ -- Juanma1980 <juanma1980@gmail.com>  Fri, 19 Jul 2024 07:37:45 +0200
+
 rebost-data (1.0.1-0lliurex21) focal; urgency=medium
 
   * Sync version with jammy

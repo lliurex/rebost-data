@@ -1,3 +1,9 @@
+rebost-data (24.07.18-0lliurex24) jammy; urgency=medium
+
+  * idle-python
+
+ -- Juanma1980 <juanma1980@gmail.com>  Fri, 19 Jul 2024 07:34:51 +0200
+
 rebost-data (24.07.02-0lliurex23) jammy; urgency=medium
 
   * virtualbox-lliurex

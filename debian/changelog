@@ -1,3 +1,43 @@
+rebost-data (24.07.24-0lliurex23) jammy; urgency=medium
+
+  * "activitats-flash-per-a-simplayer": "simplayer-flash-activities",
+  * "activitats-phet-para-simplayer":"simplayer-phet-activities",
+  * "apache-portable-runtime": "libapr1",
+  * "apache-web-server-linux":"apache2",
+  * "app-inventor-offline": "zero-lliurex-ai2offline",
+  * "arduino-ide-lliurex": "arduino-ide",
+  * "audacity-v3-4-2": "audacity",
+  * "avogadro2": "avogadro",
+  * "crashed-processes-viewer": "",
+  * "docker-cli": "docker",
+  * "fluidsynth-plugin-for-vlc":"vlc-plugin-fluidsynth",
+  * "gcompris-lliurex": "gcompris",
+  * "gdebi-package-installer":"",
+  * "gnu-solfege": "solfege",
+  * "info-center": "",
+  * "itaca-lliurex": "zero-lliurex-itaca",
+  * "kde-connect-indicator": "",
+  * "kde-connect-settings": "",
+  * "klipper": "octoprint-sdev",
+  * "learningml": "zero-lliurex-learningml",
+  * "lliurex": "simplayer",
+  * "mezclador-de-pdf": "pdfarranger",
+  * "musescore-3": "musescore",
+  * "obri-al-dispositiu-connectat-a-traves-del-kde-connect": "",
+  * "oliplus-pryntcontrol-lliurex": "zero-lliurex-oliplus",
+  * "onlyprint-orbys": "zero-lliurex-clickcontrolds",
+  * "scite-text-editor": "scite",
+  * "startup-disk-creator": "usb-creator-kde",
+  * "teams-lliurex": "zero-lliurex-teams",
+  * "timidity-midi-sequencer": "timidity",
+  * "tux-typing": "tuxtype",
+  * "uxterm": "xterm",
+  * "rxvt-color-unicode-terminal": "",
+  * "xaos-fractal-zoomer": "xaos",
+
+
+ -- Juanma1980 <juanma1980@gmail.com>  Thu, 25 Jul 2024 14:56:40 +0200
+
 rebost-data (24.07.21-0lliurex23) jammy; urgency=medium
 
   * drkonqui (crashed-processes-viewer)

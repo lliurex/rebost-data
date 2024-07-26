@@ -34,7 +34,17 @@ rebost-data (24.07.24-0lliurex23) jammy; urgency=medium
   * "uxterm": "xterm",
   * "rxvt-color-unicode-terminal": "",
   * "xaos-fractal-zoomer": "xaos",
-
+  *"cisco-packet-tracer": "",
+  *"cisco-webex": "",
+  *"conky": "lliurex-conky",
+  *"gscript": "pcsc-gscriptor",
+  *"librecad-lliurex": "librecad",
+  *"open-sysclone": "zero-lliurex-open-sysclone",
+  *"scratch-desktop-l": "zero-lliurex-scratch3",
+  *"servidor-dinformes-jclic": "zero-lliurex-jclic-biblio",
+  *"thunderbird-mail": "thunderbird",
+  *"x11vnc-server": "x11vnc",
+  *"xournal": "xournalpp",
 
  -- Juanma1980 <juanma1980@gmail.com>  Thu, 25 Jul 2024 14:56:40 +0200
 

@@ -1,3 +1,4 @@
 filters/* /usr/share/rebost
 llx23/* /usr/share/rebost/lists.d
+yaml/llx23 /usr/share/rebost-data
 

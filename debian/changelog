@@ -1,3 +1,12 @@
+rebost-data (24.08.01-0lliurex23) jammy; urgency=medium
+
+  * Add yaml files
+  * "zero-lliurex-arduino-plugin": "zero-lliurex-arduino-plugin"
+  * "onedrive": ""
+  * "lliurex-onedrive": ""
+
+ -- Juanma1980 <juanma1980@gmail.com>  Thu, 01 Aug 2024 09:43:23 +0200
+
 rebost-data (24.07.31-0lliurex23) jammy; urgency=medium
 
   * "activitats-flash-per-a-simplayer": "simplayer-flash-activities",

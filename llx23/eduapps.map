@@ -186,6 +186,7 @@
     "virtualbox-lliurex": "zero-lliurex-virtualizer",
     "visual-studio-code": "vscodium",
     "visual-studio-code-2": "vscodium",
+	"vscodium":"codium",
     "vlc-media-player": "vlc",
     "vokoscreenng": "vokoscreen",
     "webcamoid": "webcamoid",

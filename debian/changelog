@@ -1,3 +1,9 @@
+rebost-data (24.09.17-0lliurex25) noble; urgency=medium
+
+  * Noble release
+
+ -- Juanma1980 <juanma1980@gmail.com>  Thu, 19 Sep 2024 08:31:55 +0200
+
 rebost-data (24.09.17-0lliurex23) jammy; urgency=medium
 
   * Add codium for vscodium

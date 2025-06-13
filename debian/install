@@ -1,4 +1,1 @@
-filters/* /usr/share/rebost
-llx25/* /usr/share/rebost/lists.d
-yaml/llx25 /usr/share/rebost-data/llx25
-
+* /usr/share/rebost/rebost-data

@@ -1,3 +1,9 @@
+rebost-data (25.07.25-0llx25) noble; urgency=medium
+
+  * New mapfile format
+
+ -- Juanma1980 <juanma1980@gmail.com>  Fri, 25 Jul 2025 11:51:01 +0200
+
 rebost-data (25.06.13-0llx25) noble; urgency=medium
 
   * Noble release

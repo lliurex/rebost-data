@@ -20,8 +20,8 @@
 	"aliases":
 	{
 		"adobe-reader":"zero-lliurex-adobereader",
-		"gns3-lliurex":"zero-lliurex-gn3",
-		"gtts-text-to-speech":"zero-lliurex-gtts",
+		"gns3-lliurex":"zero-lliurex-gns3",
+		"gtts-google-text-to-speech":"zero-lliurex-gtts",
 		"symfony":"zero-lliurex-symfony"
 	}
 }

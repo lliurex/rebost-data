@@ -1,3 +1,9 @@
+rebost-data (25.09.22-0lliurex23) jammy; urgency=medium
+
+  * New paths. Update data
+
+ -- Juanma1980 <juanma1980@gmail.com>  Mon, 22 Sep 2025 12:52:20 +0200
+
 rebost-data (24.09.17-0lliurex23) jammy; urgency=medium
 
   * Add codium for vscodium

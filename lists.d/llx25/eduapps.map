@@ -1,0 +1,37 @@
+{
+	"nodisplay":
+	[
+		"apache-web-server-linux",
+		"app-inventor-offline",
+		"bell-scheduler",
+		"chromium",
+		"fusioninventory-agent",
+		"git",
+		"itaca",
+		"itaca-lliurex",
+		"lliurex-guard",
+		"pdfmod",
+		"petri-foo",
+		"php-lliurex",
+		"run-o-matic",
+		"tupitube",
+		"zero-dev",
+		"zero-lliurex-telegram",
+		"zero-lliurex-skype",
+		"zero-lliurex-spotify",
+		"zero-center"
+	],
+	"aliases":
+	{
+		"adobe-reader":"zero-lliurex-adobereader",
+		"arduino-ide":"arduino",
+		"dbeaver":"zero-lliurex-dbeaver",
+		"gtts-google-text-to-speech":"gtts",
+		"prusaslicer-appimage":"prusaslicer",
+		"pseint":"zero-lliurex-pseint",
+		"pygpt":"zero-lliurex-pygpt",
+		"symfony":"symfony-cli",
+		"vokoscreen":"vokoscreen-ng",
+		"zotero-snap":"zotero"
+	}
+}

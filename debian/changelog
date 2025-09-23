@@ -1,3 +1,9 @@
+rebost-data (25.09.22-0lliurex25) noble; urgency=medium
+
+  * New paths. Add metadata
+
+ -- Juanma1980 <juanma1980@gmail.com>  Tue, 23 Sep 2025 15:51:10 +0200
+
 rebost-data (25.07.25-0llx25) noble; urgency=medium
 
   * New mapfile format

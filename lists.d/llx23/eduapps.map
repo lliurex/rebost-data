@@ -14,6 +14,7 @@
 		"petri-foo",
 		"php-lliurex",
 		"tupitube",
+		"zero-center"
 		"zero-dev",
 		"zero-lliurex-analytics",
 		"zero-lliurex-cdc",
@@ -26,7 +27,7 @@
 		"zero-lliurex-telegram",
 		"zero-lliurex-skype",
 		"zero-lliurex-spotify",
-		"zero-center"
+		"zero-server-wizard"
 	],
 	"aliases":
 	{

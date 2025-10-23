@@ -1,6 +1,7 @@
 {
 	"nodisplay":
 	[
+		"appsedu",
 		"apache-web-server-linux",
 		"bell-scheduler",
 		"fusioninventory-agent",
@@ -10,6 +11,7 @@
 		"lliurex-guard",
 		"lliurex-guard-installer",
 		"lliurex-inventory-agent",
+		"lliurex-store",
 		"pdfmod",
 		"petri-foo",
 		"php-lliurex",
@@ -19,7 +21,6 @@
 		"zero-lliurex-analytics",
 		"zero-lliurex-cdc",
 		"zero-lliurex-dropbox-installer",
-		"zero-lliurex-flavours",
 		"zero-lliurex-itaca",
 		"zero-lliurex-kiosko",
 		"zero-lliurex-moodle",

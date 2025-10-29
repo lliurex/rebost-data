@@ -1,3 +1,9 @@
+rebost-data (25.10.29-0llx25) noble; urgency=medium
+
+  * Stable release
+
+ -- Juanma1980 <juanma1980@gmail.com>  Wed, 29 Oct 2025 11:53:26 +0100
+
 rebost-data (25.09.22-0lliurex25) noble-testing; urgency=medium
 
   * New paths. Add metadata

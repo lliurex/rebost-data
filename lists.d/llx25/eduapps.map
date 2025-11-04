@@ -1,6 +1,7 @@
 {
 	"nodisplay":
 	[
+		"abconnector-v6",
 		"appsedu",
 		"apache-web-server-linux",
 		"bell-scheduler",

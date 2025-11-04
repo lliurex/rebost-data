@@ -33,6 +33,7 @@
 	],
 	"aliases":
 	{
+		"abconnector-v6":"abconnector",
 		"adobe-reader":"zero-lliurex-adobereader",
 		"arduino-ide":"arduino",
 		"dbeaver":"zero-lliurex-dbeaver",

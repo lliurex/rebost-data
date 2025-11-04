@@ -1,6 +1,8 @@
 {
 	"nodisplay":
 	[
+		"abconnector-v6",
+		"appsedu",
 		"apache-web-server-linux",
 		"bell-scheduler",
 		"fusioninventory-agent",
@@ -10,6 +12,7 @@
 		"lliurex-guard",
 		"lliurex-guard-installer",
 		"lliurex-inventory-agent",
+		"lliurex-store",
 		"pdfmod",
 		"petri-foo",
 		"php-lliurex",

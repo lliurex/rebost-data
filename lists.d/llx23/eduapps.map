@@ -5,7 +5,6 @@
 		"appsedu",
 		"apache-web-server-linux",
 		"bell-scheduler",
-		"chromium",
 		"fusioninventory-agent",
 		"git",
 		"itaca",
@@ -39,6 +38,7 @@
 	{
 		"adobe-reader":"zero-lliurex-adobereader",
 		"arduino-ide":"arduino",
+		"chromium":"chromium-browser",
 		"dbeaver":"zero-lliurex-dbeaver",
 		"gtts-google-text-to-speech":"gtts",
 		"llx-edition-studio":"cin",

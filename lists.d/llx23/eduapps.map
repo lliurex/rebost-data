@@ -44,6 +44,7 @@
 		"pygpt":"zero-lliurex-pygpt",
 		"symfony":"symfony-cli",
 		"vokoscreen":"vokoscreen-ng",
+		"vokoscreenng":"llx-edition-studio",
 		"zotero-snap":"zotero"
 	}
 }

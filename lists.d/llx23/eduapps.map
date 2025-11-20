@@ -43,7 +43,7 @@
 		"pseint":"zero-lliurex-pseint",
 		"pygpt":"zero-lliurex-pygpt",
 		"symfony":"symfony-cli",
-		"vokoscreenng":"vokoscreen",
+		"vokoscreen":"vokoscreen-ng",
 		"zotero-snap":"zotero"
 	}
 }

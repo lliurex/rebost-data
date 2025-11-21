@@ -1,7 +1,6 @@
 {
 	"nodisplay":
 	[
-		"abconnector-v6",
 		"appsedu",
 		"apache-web-server-linux",
 		"bell-scheduler",
@@ -36,6 +35,7 @@
 	],
 	"aliases":
 	{
+		"abconnector-v6":"abconnector",
 		"adobe-reader":"zero-lliurex-adobereader",
 		"arduino-ide":"arduino",
 		"chromium":"chromium-browser",

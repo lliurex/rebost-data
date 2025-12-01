@@ -41,6 +41,7 @@
 		"chromium":"chromium-browser",
 		"dbeaver":"zero-lliurex-dbeaver",
 		"gtts-google-text-to-speech":"gtts",
+		"gtts":"zero-lliurex-gtts",
 		"llx-edition-studio":"cin",
 		"prusaslicer-appimage":"prusaslicer",
 		"pseint":"zero-lliurex-pseint",

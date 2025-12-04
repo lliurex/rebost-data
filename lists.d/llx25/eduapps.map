@@ -40,7 +40,7 @@
 		"ai2offline":"zero-lliurex-ai2offline",
 		"arduino-ide":"arduino",
 		"dbeaver":"zero-lliurex-dbeaver",
-		"gtts-google-text-to-speech":"gtts",
+		"gtts-google-text-to-speech":"zero-lliurex-gtts",
 		"gtts":"zero-lliurex-gtts",
 		"llx-edition-studio":"cin",
 		"prusaslicer-appimage":"prusaslicer",

@@ -20,7 +20,9 @@
 		"zero-dev",
 		"zero-lliurex-analytics",
 		"zero-lliurex-cdc",
+		"zero-lliurex-chromium",
 		"zero-lliurex-dropbox-installer",
+		"zero-lliurex-flavours",
 		"zero-lliurex-itaca",
 		"zero-lliurex-kiosko",
 		"zero-lliurex-moodle",
@@ -33,15 +35,19 @@
 	],
 	"aliases":
 	{
+		"abconnector-v6":"abconnector",
 		"adobe-reader":"zero-lliurex-adobereader",
+		"ai2offline":"zero-lliurex-ai2offline",
 		"arduino-ide":"arduino",
 		"dbeaver":"zero-lliurex-dbeaver",
-		"gtts-google-text-to-speech":"gtts",
+		"gtts-google-text-to-speech":"zero-lliurex-gtts",
+		"gtts":"zero-lliurex-gtts",
+		"llx-edition-studio":"cin",
 		"prusaslicer-appimage":"prusaslicer",
 		"pseint":"zero-lliurex-pseint",
 		"pygpt":"zero-lliurex-pygpt",
 		"symfony":"symfony-cli",
-		"vokoscreen":"vokoscreen-ng",
+		"vokoscreen":"vokoscreenng",
 		"zotero-snap":"zotero"
 	}
 }

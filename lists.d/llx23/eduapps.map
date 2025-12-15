@@ -1,6 +1,7 @@
 {
 	"nodisplay":
 	[
+		"appsedu",
 		"apache-web-server-linux",
 		"bell-scheduler",
 		"fusioninventory-agent",
@@ -10,14 +11,17 @@
 		"lliurex-guard",
 		"lliurex-guard-installer",
 		"lliurex-inventory-agent",
+		"lliurex-store",
 		"pdfmod",
 		"petri-foo",
+		"php",
 		"php-lliurex",
 		"tupitube",
 		"zero-center",
 		"zero-dev",
 		"zero-lliurex-analytics",
 		"zero-lliurex-cdc",
+		"zero-lliurex-chromium",
 		"zero-lliurex-dropbox-installer",
 		"zero-lliurex-flavours",
 		"zero-lliurex-itaca",
@@ -32,10 +36,14 @@
 	],
 	"aliases":
 	{
+		"abconnector-v6":"abconnector",
 		"adobe-reader":"zero-lliurex-adobereader",
-		"arduino-ide":"arduino",
+		"arduino":"arduino-ide",
+		"chromium":"chromium-browser",
 		"dbeaver":"zero-lliurex-dbeaver",
-		"gtts-google-text-to-speech":"gtts",
+		"gtts-google-text-to-speech":"zero-lliurex-gtts",
+		"gtts":"zero-lliurex-gtts",
+		"llx-edition-studio":"cin",
 		"prusaslicer-appimage":"prusaslicer",
 		"pseint":"zero-lliurex-pseint",
 		"pygpt":"zero-lliurex-pygpt",

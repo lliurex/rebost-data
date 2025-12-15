@@ -14,6 +14,7 @@
 		"lliurex-store",
 		"pdfmod",
 		"petri-foo",
+		"php",
 		"php-lliurex",
 		"tupitube",
 		"zero-center",
@@ -37,7 +38,7 @@
 	{
 		"abconnector-v6":"abconnector",
 		"adobe-reader":"zero-lliurex-adobereader",
-		"arduino-ide":"arduino",
+		"arduino":"arduino-ide",
 		"chromium":"chromium-browser",
 		"dbeaver":"zero-lliurex-dbeaver",
 		"gtts-google-text-to-speech":"zero-lliurex-gtts",

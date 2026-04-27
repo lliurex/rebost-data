@@ -53,6 +53,7 @@
 		"symfony":"symfony-cli",
 		"ultimaker_cura":"UltimakerCura",
 		"vokoscreen":"vokoscreenng",
+		"vscodium":"codium",
 		"zotero-snap":"zotero"
 	}
 }

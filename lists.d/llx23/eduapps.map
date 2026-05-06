@@ -42,6 +42,7 @@
         "asamblea-class-jam": "classroom-assembly",
         "atom-3": "atom",
         "chromium": "chromium-browser",
+		"containerd": "containerd.io",
         "dbeaver": "zero-lliurex-dbeaver",
         "dbeaver-community": "zero-lliurex-dbeaver",
         "gtts-google-text-to-speech": "zero-lliurex-gtts",

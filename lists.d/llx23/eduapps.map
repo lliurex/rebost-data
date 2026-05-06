@@ -85,7 +85,9 @@
         "ultimaker-cura": "cura",
         "virtualbox-7-2": "virtualbox-7.2",
         "vscodium": "codium",
+        "winehq": "zero-lliurex-wine64",
         "wireshark": "zero-lliurex-wireshark",
+        "xml-copy-editor": "xmlcopyeditor",
         "zotero-snap": "zotero"
     }
 }

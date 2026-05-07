@@ -1,3 +1,10 @@
+rebost-data (26.05.06-0lliurex23) jammy; urgency=medium
+
+  * Update map file
+  * Add upstream field
+
+ -- Juanma1980 <juanma1980@gmail.com>  Thu, 07 May 2026 18:12:52 +0200
+
 rebost-data (26.03.13-0lliurex23) jammy; urgency=medium
 
   * Update map file

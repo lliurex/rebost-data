@@ -1,4 +1,5 @@
 {
+    "upstream": "https://github.com/lliurex/rebost-data/raw/refs/heads/master/lists.d/llx23/eduapps.map",
     "nodisplay": [
         "apache-web-server-linux",
         "zero-dev",

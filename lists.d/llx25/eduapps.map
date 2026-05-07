@@ -45,6 +45,7 @@
 		"gtts-google-text-to-speech":"zero-lliurex-gtts",
 		"gtts":"zero-lliurex-gtts",
 		"llx-edition-studio":"cin",
+		"luanti":"zero-lliurex-minetest",
 		"prusaslicer-appimage":"prusaslicer",
 		"pseint":"zero-lliurex-pseint",
 		"pygpt":"zero-lliurex-pygpt",
@@ -52,6 +53,7 @@
 		"symfony":"symfony-cli",
 		"ultimaker_cura":"UltimakerCura",
 		"vokoscreen":"vokoscreenng",
+		"vscodium":"codium",
 		"zotero-snap":"zotero"
 	}
 }

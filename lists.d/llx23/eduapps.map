@@ -53,6 +53,7 @@
         "arduino": "arduino-ide",
         "asamblea-class-jam": "classroom-assembly",
         "atom-3": "atom",
+        "bambulab-studio": "bambustudio",
         "chromium": "chromium-browser",
         "containerd": "containerd.io",
         "dbeaver": "zero-lliurex-dbeaver",

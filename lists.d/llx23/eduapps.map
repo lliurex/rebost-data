@@ -56,7 +56,6 @@
         "bambulab-studio": "bambustudio",
         "chromium": "chromium-browser",
         "containerd": "containerd.io",
-        "dbeaver": "zero-lliurex-dbeaver",
         "dbeaver-community": "zero-lliurex-dbeaver",
         "docker": "docker-ce",
         "docker-cli": "docker-ce-cli",

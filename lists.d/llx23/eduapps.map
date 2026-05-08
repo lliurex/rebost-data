@@ -41,8 +41,8 @@
         "itaca",
         "lliurex-guard-installer",
         "itaca-lliurex",
-        "libelf-dev",
         "zero-lliurex-spotify"
+        "libelf-dev",
     ],
     "aliases": {
         "abconnector-v6": "abconnector",

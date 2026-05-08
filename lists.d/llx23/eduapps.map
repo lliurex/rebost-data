@@ -65,6 +65,8 @@
         "freecad-2": "freecad",
         "ganttproject-2": "ganttproject",
         "gdevelop-v5-6-257": "gdevelop",
+        "git": "git
+        "gns3": "gns3-gui",
         "gnu-octave": "octave",
         "godot-engine": "godot",
         "google-earth": "zero-lliurex-gearth",

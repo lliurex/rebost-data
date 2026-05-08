@@ -17,6 +17,7 @@
         "lliurex-inventory-agent",
         "lliurex-store",
         "zero-lliurex-moodle",
+        "zero-lliurex-palemoon",
         "zero-lliurex-chromium",
         "zero-lliurex-telegram",
         "lliurex-guard",
@@ -28,6 +29,7 @@
         "itaca",
         "lliurex-guard-installer",
         "itaca-lliurex",
+        "libelf-dev",
         "zero-lliurex-spotify"
     ],
     "aliases": {

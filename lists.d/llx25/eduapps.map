@@ -42,14 +42,15 @@
         "lliurex-guard-installer",
         "itaca-lliurex",
         "zero-lliurex-spotify",
-        "libelf-dev"
-		"appsedu",
+        "libelf-dev,
+		"appsedu"
 	],
 	"aliases":
 	{
         "abconnector-v6": "abconnector",
         "activitats-flash-per-a-simplayer": "simplayer",
         "adobe-reader": "zero-lliurex-adobereader",
+		"android-studio": "androidstudio",
         "apache-netbeans-2": "netbeans",
         "app-inventor-offline": "zero-lliurex-ai2offline",
         "arduino": "arduino-ide",

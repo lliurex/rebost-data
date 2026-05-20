@@ -42,7 +42,7 @@
         "lliurex-guard-installer",
         "itaca-lliurex",
         "zero-lliurex-spotify",
-        "libelf-dev,
+        "libelf-dev",
 		"appsedu"
 	],
 	"aliases":

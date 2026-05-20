@@ -1,6 +1,7 @@
 {
     "upstream": "https://github.com/lliurex/rebost-data/raw/refs/heads/master/lists.d/llx23/eduapps.map",
-    "nodisplay": [
+	"nodisplay":
+	[
         "apache-web-server-linux",
         "bison",
         "libqt5websockets5",
@@ -41,12 +42,15 @@
         "lliurex-guard-installer",
         "itaca-lliurex",
         "zero-lliurex-spotify",
-        "libelf-dev"
-    ],
-    "aliases": {
+        "libelf-dev",
+		"appsedu"
+	],
+	"aliases":
+	{
         "abconnector-v6": "abconnector",
         "activitats-flash-per-a-simplayer": "simplayer",
         "adobe-reader": "zero-lliurex-adobereader",
+		"android-studio": "androidstudio",
         "apache-netbeans-2": "netbeans",
         "app-inventor-offline": "zero-lliurex-ai2offline",
         "arduino": "arduino-ide",
@@ -106,5 +110,5 @@
         "wireshark": "zero-lliurex-wireshark",
         "xml-copy-editor": "xmlcopyeditor",
         "zotero-snap": "zotero"
-    }
+	}
 }

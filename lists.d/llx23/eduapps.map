@@ -103,6 +103,7 @@
         "slic3r": "slic3r-appimage",
         "slowmo-video": "slowmovideo",
         "sound-show-lliurex": "sound-show",
+        "soundshow": "sound-show",
         "speech-note": "zero-lliurex-speech-note",
         "symfony": "symfony-cli",
         "tesseract": "zero-lliurex-ocrfeeder",

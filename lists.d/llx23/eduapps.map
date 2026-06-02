@@ -46,7 +46,7 @@
         "zero-lliurex-skype",
         "zero-lliurex-spotify",
         "zero-lliurex-telegram",
-        "zero-server-wizard",
+        "zero-server-wizard"
     ],
     "aliases": {
         "abconnector-v6": "abconnector",

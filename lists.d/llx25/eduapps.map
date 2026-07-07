@@ -25,6 +25,8 @@
         "php",
         "php-lliurex",
         "promethean-compat-libs",
+		"wine32",
+		"wine64",
         "xdotool",
         "zero-center",
         "zero-dev",

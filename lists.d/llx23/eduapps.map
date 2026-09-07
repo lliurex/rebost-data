@@ -63,6 +63,7 @@
         "chromium": "chromium-snapfree",
         "cliente-clickcontrol": "zero-lliurex-clickcontrolds",
         "containerd": "containerd.io",
+		"creality-print": "creality-appimage",
         "dbeaver": "zero-lliurex-dbeaver",
         "dbeaver-community": "zero-lliurex-dbeaver",
         "docker": "docker-ce",

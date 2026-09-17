@@ -84,6 +84,7 @@
         "intellij-idea-community-edition": "intellij",
         "keepass-http-connector": "keepass2-plugin-keepasshttp",
         "keepass-password-manager": "keepass2",
+		"lliurex-ms-teams": "teams-for-linux",
         "llxamp-interfaz-grafica": "llxamp-gui",
         "llxamp-linea-de-comandos": "llxamp-cmdline",
         "llx-edition-studio": "cin",

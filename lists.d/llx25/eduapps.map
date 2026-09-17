@@ -22,6 +22,7 @@
         "lliurex-guard",
         "lliurex-guard-installer",
         "lliurex-inventory-agent",
+		"lliurex-ms-teams",
         "lliurex-store",
         "php",
         "php-lliurex",

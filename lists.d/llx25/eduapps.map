@@ -1,13 +1,13 @@
 {
     "upstream": "https://github.com/lliurex/rebost-data/raw/refs/heads/master/lists.d/llx25/eduapps.map",
-	"nodisplay":
-	[
+    "nodisplay":
+    [
         "activ-meta-es",
         "activdriver",
         "apache-web-server-linux",
         "appsedu",
         "bison",
-		"cin",
+        "cin",
         "dkms",
         "flex",
         "fusioninventory-agent",
@@ -26,8 +26,8 @@
         "php",
         "php-lliurex",
         "promethean-compat-libs",
-		"wine32",
-		"wine64",
+        "wine32",
+        "wine64",
         "xdotool",
         "zero-center",
         "zero-dev",
@@ -46,15 +46,15 @@
         "zero-lliurex-telegram",
         "zero-server-wizard",
         "zero-lliurex-spotify"
-	],
-	"aliases":
-	{
+    ],
+    "aliases":
+    {
         "abconnector-v6": "abconnector",
         "activitats-flash-per-a-simplayer": "simplayer",
         "adobe-reader": "zero-lliurex-adobereader",
-		"android-studio": "androidstudio",
-		"anythingllm": "zero-lliurex-anything-llm",
-		"anything-llm": "zero-lliurex-anything-llm",
+        "android-studio": "androidstudio",
+        "anythingllm": "zero-lliurex-anything-llm",
+        "anything-llm": "zero-lliurex-anything-llm",
         "apache-netbeans-2": "netbeans",
         "app-inventor-offline": "zero-lliurex-ai2offline",
         "arduino": "arduino-ide",
@@ -64,7 +64,7 @@
         "chromium": "chromium-snapfree",
         "cliente-clickcontrol":"zero-lliurex-clickcontrolds",
         "containerd": "containerd.io",
-		"creality-print": "creality",
+        "creality-print": "creality",
         "dbeaver": "zero-lliurex-dbeaver",
         "dbeaver-community": "zero-lliurex-dbeaver",
         "docker": "docker-ce",
@@ -117,5 +117,5 @@
         "wireshark": "zero-lliurex-wireshark",
         "xml-copy-editor": "xmlcopyeditor",
         "zotero-snap": "zotero"
-	}
+    }
 }

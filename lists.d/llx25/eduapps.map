@@ -1,13 +1,13 @@
 {
     "upstream": "https://github.com/lliurex/rebost-data/raw/refs/heads/master/lists.d/llx25/eduapps.map",
-    "nodisplay":
-    [
+	"nodisplay":
+	[
         "activ-meta-es",
         "activdriver",
         "apache-web-server-linux",
         "appsedu",
         "bison",
-        "cin",
+		"cin",
         "dkms",
         "flex",
         "fusioninventory-agent",
@@ -26,8 +26,8 @@
         "php",
         "php-lliurex",
         "promethean-compat-libs",
-        "wine32",
-        "wine64",
+		"wine32",
+		"wine64",
         "xdotool",
         "zero-center",
         "zero-dev",
@@ -45,15 +45,16 @@
         "skype",
         "telegram",
         "zero-server-wizard",
-        "spotify"
-    ],
-    "aliases":
-    {
+        "zero-lliurex-spotify"
+	],
+	"aliases":
+	{
         "abconnector-v6": "abconnector",
         "activitats-flash-per-a-simplayer": "simplayer",
-        "adobe-reader": "adobereader",
-        "android-studio": "androidstudio",
-        "anythingllm": "anything-llm",
+        "adobe-reader": "zero-lliurex-adobereader",
+		"android-studio": "androidstudio",
+		"anythingllm": "zero-lliurex-anything-llm",
+		"anything-llm": "zero-lliurex-anything-llm",
         "apache-netbeans-2": "netbeans",
         "app-inventor-offline": "ai2offline",
         "arduino": "arduino-ide",
@@ -63,8 +64,9 @@
         "chromium": "chromium-snapfree",
         "cliente-clickcontrol":"clickcontrolds",
         "containerd": "containerd.io",
-        "creality-print": "creality",
-        "dbeaver-community": "dbeaver",
+		"creality-print": "creality",
+        "dbeaver": "zero-lliurex-dbeaver",
+        "dbeaver-community": "zero-lliurex-dbeaver",
         "docker": "docker-ce",
         "docker-cli": "docker-ce-cli",
         "eclipse-2": "eclipse",
@@ -113,5 +115,5 @@
         "winehq": "wine64",
         "xml-copy-editor": "xmlcopyeditor",
         "zotero-snap": "zotero"
-    }
+	}
 }

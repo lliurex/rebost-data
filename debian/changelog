@@ -1,3 +1,9 @@
+rebost-data (26.10.22) noble; urgency=medium
+
+  * Fix typo in data
+
+ -- Juanma1980 <juanma1980@gmail.com>  Thu, 22 Oct 2026 08:00:11 +0200
+
 rebost-data (26.10.21) noble; urgency=medium
 
   * Update id for rebost 3.3.4.1
